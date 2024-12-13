@@ -11,3 +11,6 @@ SCRIPT:WaveCounter
 "Wave "
 END
 
+SCRIPT:Next
+"Next Wave Starts in "
+END
