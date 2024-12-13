@@ -1,0 +1,13 @@
+//------------------------------------------------------------
+Map:map_pk_tol_pholg
+"Tol Phog"
+END
+
+Map:map_pk_tol_pholg/Desc
+"Defend the central building against enemy waves. \n Map by Powerkartoffel."
+END
+
+SCRIPT:WaveCounter
+"Wave "
+END
+
